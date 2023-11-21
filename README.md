@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate with start-up founders, organizations, companies and even business owners to solve their business problems
 - I'm open for Entry Level Data Analyst Role
 - 📫 How to reach me on...[LinkedIn](https://www.linkedin.com/in/jude-ukatu-39a7871aa/)
--  Funfact : I weave data into compelling visual narratives that resonate with stakeholders.
+-  Funfact : Turning data into gold isn't just a metaphor for me, it's a daily mission.
 
 ## My Toolkits ##
 - Microsoft Excel
