@@ -5,6 +5,13 @@
 - I excel in the art of curating actionable insights from complex datasets, transforming raw information into strategic decision-making tools.
 - 🌱 I’m currently on internship program in Data Analysis with Dahel Techies
 - 💞️ I’m looking to collaborate with start-up founders, organizations, companies and even business owners to solve their business problems
+  
+🚀 Skills
+- Proficient in data cleaning, analysis, and visualization using advanced Excel functions and formulas.
+- Experienced in creating interactive and insightful dashboards for data exploration and presentation.
+- Skilled in building dynamic reports and dashboards to convey complex information in a visually appealing way.
+- Proficient in writing queries for data extraction, manipulation, and analysis.
+ 
 - I'm open for Entry Level Data Analyst Role
 - 📫 How to reach me on...[LinkedIn](https://www.linkedin.com/in/jude-ukatu-39a7871aa/)
 -  Funfact : Turning data into gold isn't just a metaphor for me, it's a daily mission.
