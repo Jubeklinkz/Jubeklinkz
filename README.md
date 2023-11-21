@@ -7,7 +7,8 @@
 - I'm open for Entry Level Data Analyst role 
 - 📫 How to reach me on...[LinkedIn](https://www.linkedin.com/in/jude-ukatu-39a7871aa/)
 -  Funfact : I weave data into compelling visual narratives that resonate with stakeholders.
- My Toolkits:
+
+My Toolkits:
 - Microsoft Excel
 - SQL (Structured Query Language)
 - PowerBI
