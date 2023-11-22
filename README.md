@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Jude Ukatu #
- ## I am a Fervent Data Analyst /Business Intelligence Analyst with a passion for unveiling insights 😃 ##
+ ## I am a Fervent Data Analyst/Business Intelligence Analyst with a passion for unveiling insights 😃 ##
 - 🔭 Call me a DataInsight Maven
 - 👀 I’m interested in Data Analysis and Data Science
 - 🔭I excel in the art of curating actionable insights from complex datasets, transforming raw information into strategic decision-making tools.
