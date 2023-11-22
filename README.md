@@ -13,7 +13,7 @@
 - Proficient in writing queries for data extraction, manipulation, and analysis.
  
 - 👯 I'm open for Entry Level Data Analyst Role
-- 📫 How to reach me on...[LinkedIn](https://www.linkedin.com/in/jude-ukatu-39a7871aa/)
+- 📫 How to reach me on...[LinkedIn](https://www.linkedin.com/in/data-analyst-jude-ukatu/)
 - ⚡Funfact : Turning data into gold isn't just a metaphor for me, it's a daily mission.
 
 ## My Toolkits ##
