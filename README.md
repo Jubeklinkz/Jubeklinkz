@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate with start-up founders, organizations, companies and even business owners to solve their business problems
   
 🚀 Skills
-- Proficient in data cleaning, analysis, and visualization using advanced Excel functions and formulas.
+- Proficient in data cleaning, analysis, and visualization using Excel functions, SQL, Power Bi Tableau.
 - Experienced in creating interactive and insightful dashboards for data exploration and presentation.
 - Skilled in building dynamic reports and dashboards to convey complex information in a visually appealing way.
 - Proficient in writing queries for data extraction, manipulation, and analysis.
