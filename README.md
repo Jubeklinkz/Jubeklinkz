@@ -3,7 +3,7 @@
 - 🔭 Call me a DataInsight Maven
 - 👀 I’m interested in Data Analysis and Data Science
 - 🔭I excel in the art of curating actionable insights from complex datasets, transforming raw information into strategic decision-making tools.
-- 🌱 I’m currently on internship program in Data Analysis with Dahel Techies
+- 🌱 I’m currently working on Several Projects to challenge myself and grow my Data Analytics and Science Skills
 - 💞️ I’m looking to collaborate with start-up founders, organizations, companies and even business owners to solve their business problems
   
 🚀 Skills
