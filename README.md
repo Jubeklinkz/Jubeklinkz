@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Jude Ukatu #
- ## I am a Fervent Data Analyst/Business Intelligence Analyst with a passion for unveiling insights 😃 ##
+ ## ### MSc Digital Marketing & Analytics Graduate | Aspiring Data Analyst ##
 I'm a Digital Marketing & Analytics graduate with a background in
 International Business Management, currently transitioning into Data
 Analytics.
