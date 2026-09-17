@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Jude Ukatu #
+# 👋 Hi, I’m Jude Ukatu #
 ## MSc Digital Marketing & Analytics Graduate | Aspiring Data Analyst ##
 I'm a Digital Marketing & Analytics graduate with a background in
 International Business Management, currently transitioning into Data
